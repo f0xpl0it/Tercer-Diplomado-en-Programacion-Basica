@@ -55,7 +55,7 @@ El <strong>International Centre for Theoretical Physics (ICTP)</strong>, centro 
 - **Fecha límite de registro:** 22 de agosto de 2025
 - **Presentación de proyectos final:** 09 de diciembre de 2025
 
-**Costo:** **Libre de Costo**
+**Costo:** **Gratuito**
 
 Para más detalles, visita el sitio web:  
 [https://learning.mctp.mx/tercer-diplomado-en-programacion-basica-2025/](https://learning.mctp.mx/tercer-diplomado-en-programacion-basica-2025/)
