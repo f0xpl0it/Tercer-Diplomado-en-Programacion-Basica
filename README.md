@@ -97,6 +97,6 @@ Para más detalles sobre la licencia, consulta el archivo **[LICENSE](./LICENSE)
 </p>
 
 <p align="center">
-    <a href="https://github.com/Zexc4/Programming_Fundamentals" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Zexc4/Programming_Fundamentals?label=profile%20updated&style=flat-square"></a>
+    <a href="https://github.com/Zexc4/Tercer-Diplomado-en-Programaci-n-B-sica-2025" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Zexc4/Tercer-Diplomado-en-Programaci-n-B-sica-2025?label=profile%20updated&style=flat-square"></a>
 </p>
 
