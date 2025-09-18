@@ -16,9 +16,14 @@
 
 ## Descripción del Diplomado
 
-El **International Centre for Theoretical Physics (ICTP)**, centro de categoría uno de la **UNESCO**, a través del **Mesoamerican Centre for Theoretical Physics (MCTP)** con sede en la **Benemérita Universidad Autónoma de Chiapas (UNACH)**, convoca a estudiantes y docentes de México, Centroamérica y el Caribe a participar en el **Tercer Diplomado en Programación Básica 2025**, en modalidad **virtual**. Este diplomado tiene como objetivo introducir a los participantes en las ciencias computacionales y fortalecer sus capacidades en áreas relacionadas con la programación. 
+<p style="text-align: justify;">
+El <strong>International Centre for Theoretical Physics (ICTP)</strong>, centro de categoría uno de la <strong>UNESCO</strong>, a través del <strong>Mesoamerican Centre for Theoretical Physics (MCTP)</strong> con sede en la <strong>Benemérita Universidad Autónoma de Chiapas (UNACH)</strong>, convoca a estudiantes y docentes de México, Centroamérica y el Caribe a participar en el <strong>Tercer Diplomado en Programación Básica 2025</strong>, en modalidad <strong>virtual</strong>. Este diplomado tiene como objetivo introducir a los participantes en las ciencias computacionales y fortalecer sus capacidades en áreas relacionadas con la programación.
+</p>
 
-El Diplomado consta de tres cursos intensivos de **36 horas** cada uno y cubre temas fundamentales en programación básica en **Python**, **Mathematica** y **C++**.
+<p style="text-align: justify;">
+    El Diplomado consta de tres cursos intensivos de <strong>36 horas</strong> cada uno y cubre temas fundamentales en programación básica en <strong>Python</strong>, <strong>Mathematica</strong> y <strong>C++</strong>.
+</p>
+
 
 ---
 
