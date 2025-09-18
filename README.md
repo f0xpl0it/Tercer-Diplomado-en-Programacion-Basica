@@ -1,7 +1,11 @@
 <div align="center">
   <h1>Tercer Diplomado en Programación Básica 2025</h1>
-  <img src="Assets/banner.jpg" alt="Banner  Diplomado" width="150"/>  
-
+  <img src="Assets/banner.jpg" alt="Banner  Diplomado" width="800"/>  
+  <h2>Repositorio Personal</h2>
+<p>Para cualquier actualización o contacto relacionado con el Diplomado, mantente atento a este repositorio. Puedes seguir el progreso y las actualizaciones mediante los enlaces a continuación.
+</p>
+<br>
+  
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhenriquesebastiao%2Fbadges&label=Visitas%20Repositorio&countColor=%23EA4335&style=flat&labelStyle=none&left_color=green&right_color=green)
 [![GitHub License](https://img.shields.io/github/license/henriquesebastiao/badges?color=blue)](https://github.com/henriquesebastiao/badges/blob/main/LICENSE)
 ![Markdown](https://img.shields.io/badge/Markdown-ffffff?style=flat&logo=markdown&logoColor=black)
@@ -69,10 +73,10 @@ Este repositorio está bajo la **Licencia MIT**. Puedes usar, modificar y distri
 Para más detalles sobre la licencia, consulta el archivo **[LICENSE](./LICENSE)** en este repositorio.
 
 ---
-
+<!--
 ## Seguimiento
 
-Para cualquier actualización o contacto relacionado con el Diplomado, mantente atento a este repositorio. Puedes seguir el progreso y las actualizaciones mediante los enlaces a continuación.
+
 
 <p align="center">
     <a href="https://github.com/Tu-Usuario/Tercer-Diplomado-en-Programacion-Basica-2025" target="_blank">
@@ -85,10 +89,7 @@ Para cualquier actualización o contacto relacionado con el Diplomado, mantente 
         <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Tu-Usuario/Tercer-Diplomado-en-Programacion-Basica-2025?style=flat-square">
     </a>
 </p>
-
-
-<hr>
-
+-->
 <p align="center">
     <a href="https://github.com/Zexc4" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Zexc4-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/michael-paucar-rojas-061545129" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
