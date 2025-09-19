@@ -6,7 +6,7 @@
 </p>
 <br>
   
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhenriquesebastiao%2Fbadges&label=Visitas%20Repositorio&countColor=%23EA4335&style=flat&labelStyle=none&left_color=green&right_color=green)
+![Profile view counter](https://komarev.com/ghpvc/?username=f0xpl0it&color=E56640)
 [![GitHub License](https://img.shields.io/github/license/henriquesebastiao/badges?color=blue)](https://github.com/f0xpl0it/Tercer-Diplomado-en-Programaci-n-B-sica-2025/blob/main/LICENSE)
 ![Markdown](https://img.shields.io/badge/Markdown-ffffff?style=flat&logo=markdown&logoColor=black)
 ![GitHub Repo stars](https://img.shields.io/github/stars/henriquesebastiao/badges)
