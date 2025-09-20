@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Tercer Diplomado en Programación Básica 2025</h1>
-  <img src="Assets/banner.jpg" alt="Banner  Diplomado" width="800"/>  
+  <img src="Assets/banner.jpg" alt="Banner  Diplomado" width="680"/>  
   <h2>Repositorio Personal</h2>
 <p>Para cualquier actualización o contacto relacionado con el Diplomado, mantente atento a este repositorio. Puedes seguir el progreso y las actualizaciones mediante los enlaces a continuación.
 </p>
@@ -29,7 +29,7 @@ El <strong>International Centre for Theoretical Physics (ICTP)</strong>, centro 
 
 ## Cursos
 
-- **[Programación en Mathematica]()**
+- **[Programación en Mathematica](https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/Wolfram)**
 - **[Programación en C++]()**
 - **[Programación en Python]()**
 
