@@ -4,12 +4,17 @@
   <h2>Repositorio Personal</h2>
 <p>Para cualquier actualización o contacto relacionado con el Diplomado, mantente atento a este repositorio. Puedes seguir el progreso y las actualizaciones mediante los enlaces a continuación.
 </p>
-<br>
+<br><br>
   
-![Profile view counter](https://komarev.com/ghpvc/?username=f0xpl0it&color=E56640)
-[![GitHub License](https://img.shields.io/github/license/henriquesebastiao/badges?color=blue)](https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/LICENSE)
-![Markdown](https://img.shields.io/badge/Markdown-ffffff?style=flat&logo=markdown&logoColor=black)
-![GitHub Repo stars](https://img.shields.io/github/stars/f0xpl0it)
+  <img src="https://komarev.com/ghpvc/?username=f0xpl0it&color=E56640&style=plastic" alt="Profile view counter" />
+  
+  <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/LICENSE" target="_blank">
+    <img src="https://img.shields.io/github/license/henriquesebastiao/badges?color=blue&style=plastic" alt="GitHub License" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Markdown-ffffff?style=plastic&logo=markdown&logoColor=black" alt="Markdown Badge" />
+
+  <img src="https://img.shields.io/github/stars/f0xpl0it" alt="GitHub Repo stars" />
 </div>
 
 ---
@@ -30,7 +35,7 @@ El <strong>International Centre for Theoretical Physics (ICTP)</strong>, centro 
 ## Cursos
 
 - **[Programación en Mathematica](https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/Wolfram)**
-- **[Programación en C++]()**
+- **[Programación en C++](https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B)**
 - **[Programación en Python](https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/Python)**
 
 ---
@@ -80,12 +85,20 @@ Para más detalles sobre la licencia, consulta el archivo **[LICENSE](./LICENSE)
 ---
 
 <p align="center">
-    <a href="https://github.com/f0xpl0it" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@f0xpl0it-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/michael-paucar-rojas-061545129" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://x.com/f0xpl0it" target="_blank"><img alt="X" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ff0xpl0it"></a>
+    <a href="https://github.com/f0xpl0it" target="_blank">
+        <img alt="GitHub" src="https://img.shields.io/badge/-@f0xpl0it-181717?style=plastic&logo=GitHub&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/michael-paucar-rojas-061545129" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white">
+    </a>
+<a href="https://x.com/f0xpl0it" target="_blank">
+  <img alt="X" src="https://img.shields.io/badge/-@f0xpl0it-FFFFFF?logo=x&logoColor=000000&style=plastic" />
+</a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/f0xpl0it/Tercer-Diplomado-en-Programaci-n-B-sica-2025?label=profile%20updated&style=flat-square"></a>
+    <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/edit/main/Wolfram" target="_blank">
+        <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/f0xpl0it/Tercer-Diplomado-en-Programaci-n-B-sica-2025?label=profile%20updated&style=plastic">
+    </a>
 </p>
 
