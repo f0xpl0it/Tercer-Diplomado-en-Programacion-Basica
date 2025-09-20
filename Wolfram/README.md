@@ -15,9 +15,14 @@
 ---
 
 <h2>👩‍🏫 Profesora Mathematica </h2>
-<p style="max-width: 600px; text-align: justify;"> <strong>Laura Xiomara Gutiérrez Guerrero</strong> es egresada de la Universidad Michoacana de San Nicolás de Hidalgo y ha realizado tres estancias posdoctorales en la Universidad Nacional Autónoma de México, la Universidad de Sonora y la propia Universidad Michoacana.
-Su trayectoria académica abarca la organización de eventos nacionales e internacionales en el área de la física de altas energías, así como la coordinación de diversas actividades de divulgación científica. Ha formado parte del comité organizador de las Escuelas de Física Fundamental en México y Centroamérica, contribuyendo al fortalecimiento de la comunidad académica en la región.
-La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I y ha sido reconocida como Investigadora Honorífica Nivel VI en el Sistema Estatal de Investigadores de Chiapas. Además, se desempeña como árbitro en revistas internacionales, contribuyendo activamente al desarrollo y consolidación de la investigación científica. </p>
+<p style="text-align: justify;">
+  <strong>Laura Xiomara Gutiérrez Guerrero</strong> es egresada de la Universidad Michoacana de San Nicolás de Hidalgo y ha realizado tres estancias posdoctorales en la Universidad Nacional Autónoma de México, la Universidad de Sonora y la propia Universidad Michoacana.
+  
+  Su trayectoria académica abarca la organización de eventos nacionales e internacionales en el área de la física de altas energías, así como la coordinación de diversas actividades de divulgación científica. Ha formado parte del comité organizador de las Escuelas de Física Fundamental en México y Centroamérica, contribuyendo al fortalecimiento de la comunidad académica en la región.
+
+  La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I y ha sido reconocida como Investigadora Honorífica Nivel VI en el Sistema Estatal de Investigadores de Chiapas. Además, se desempeña como árbitro en revistas internacionales, contribuyendo activamente al desarrollo y consolidación de la investigación científica.
+</p>
+
 
 ---
 <h2>🚀 Descripción</h2> 
@@ -128,6 +133,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
 
 
                                                 
+
 
 
 
