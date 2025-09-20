@@ -5,12 +5,10 @@
   
   <img src="https://komarev.com/ghpvc/?username=f0xpl0it&color=E56640&style=plastic" alt="Profile view counter" />
   
-  <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/LICENSE" target="_blank">
-    <img src="https://img.shields.io/github/license/henriquesebastiao/badges?color=blue&style=plastic" alt="GitHub License" />
-  </a>
-
+<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">
+  <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-007FFF?style=plastic&logo=creativecommons&logoColor=white" alt="Creative Commons BY-NC 4.0 License" />
+</a>
   <img src="https://img.shields.io/badge/Markdown-ffffff?style=plastic&logo=markdown&logoColor=black" alt="Markdown Badge" />
-
   <img src="https://img.shields.io/github/stars/f0xpl0it" alt="GitHub Repo stars" />
 </div>
 
@@ -84,9 +82,10 @@ Para más detalles, visita el sitio web:
 
 <h2> ⚖️ Licencia </h2>
 
-Este repositorio está bajo la **Licencia MIT**. Puedes usar, modificar y distribuir el material bajo los términos de esta licencia.
+Este repositorio está bajo la licencia [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
-Para más detalles sobre la licencia, consulta el archivo **[LICENSE](./LICENSE)** en este repositorio.
+Puedes compartir y adaptar este contenido para uso personal y educativo, pero no para fines comerciales.  
+Por favor, reconoce la autoría cuando uses este material.
 
 ---
 
