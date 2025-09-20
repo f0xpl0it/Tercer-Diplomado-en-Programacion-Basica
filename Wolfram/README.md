@@ -53,7 +53,7 @@
         • Variables, funciones y evaluaciones
       </td>
       <td>
-        • <a href="LINK">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Practica-1-17925.nb">Notebook</a><br />
         • <a href="LINK">Tarea 1</a>
       </td>
     </tr>
@@ -133,6 +133,7 @@
 
 
                                                 
+
 
 
 
