@@ -1,14 +1,15 @@
 <div align="center">
   <h1>Wolfram Mathematica</h1>
-  <img src="Assets/WOLFRAM.png" alt="WOLFRAM LOGO" width="150"/>  
+  <img src="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Assets/WOLFRAM.png" alt="WOLFRAM LOGO" width="300"/>  
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=f0xpl0it&color=E56640" alt="Profile view counter" />
-  <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programaci-n-B-sica-2025/blob/main/LICENSE" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/github/license/henriquesebastiao/badges?color=blue" alt="GitHub License" />
-  </a>
-  <img src="https://img.shields.io/badge/Markdown-ffffff?style=flat&logo=markdown&logoColor=black" alt="Markdown" style="margin-left: 10px;" />
-  <img src="https://img.shields.io/github/stars/f0xpl0it" alt="GitHub Repo stars" style="margin-left: 10px;" />
+<img src="https://img.shields.io/badge/-Mathematica-DD1100?style=plastic&logo=wolfram&logoColor=white" style="margin-left: 10px;" />
+<img src="https://komarev.com/ghpvc/?username=f0xpl0it&color=E56640&style=plastic" alt="Profile view counter" />
+<a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/LICENSE" target="_blank" style="margin-left: 10px;">
+  <img src="https://img.shields.io/github/license/henriquesebastiao/badges?color=blue&style=plastic" alt="GitHub License" />
+</a>
+<img src="https://img.shields.io/github/stars/f0xpl0it" alt="GitHub Repo stars" style="margin-left: 10px;" />
+
 </div>
 
 ---
@@ -107,16 +108,26 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
 ---
 
 <p align="center">
-    <a href="https://github.com/f0xpl0it" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@f0xpl0it-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/michael-paucar-rojas-061545129" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://x.com/f0xpl0it" target="_blank"><img alt="X" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ff0xpl0it"></a>
+    <a href="https://github.com/f0xpl0it" target="_blank">
+        <img alt="GitHub" src="https://img.shields.io/badge/-@f0xpl0it-181717?style=plastic&logo=GitHub&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/michael-paucar-rojas-061545129" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white">
+    </a>
+    <a href="https://x.com/f0xpl0it" target="_blank">
+      <img alt="X" src="https://img.shields.io/badge/-@f0xpl0it-000000?logo=x&logoColor=white&style=plastic" />
+    </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/edit/main/Wolfram" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/f0xpl0it/Tercer-Diplomado-en-Programaci-n-B-sica-2025?label=profile%20updated&style=flat-square"></a>
+    <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/edit/main/Wolfram" target="_blank">
+        <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/f0xpl0it/Tercer-Diplomado-en-Programaci-n-B-sica-2025?label=profile%20updated&style=plastic">
+    </a>
 </p>
 
 
+
                                                 
+
 
 
