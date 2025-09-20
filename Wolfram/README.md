@@ -114,9 +114,9 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
     <a href="https://www.linkedin.com/in/michael-paucar-rojas-061545129" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white">
     </a>
-    <a href="https://x.com/f0xpl0it" target="_blank">
-      <img alt="X" src="https://img.shields.io/badge/-@f0xpl0it-000000?logo=x&logoColor=white&style=plastic" />
-    </a>
+<a href="https://x.com/f0xpl0it" target="_blank">
+  <img alt="X" src="https://img.shields.io/badge/-@f0xpl0it-FFFFFF?logo=x&logoColor=000000&style=plastic" />
+</a>
 </p>
 
 <p align="center">
@@ -128,6 +128,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
 
 
                                                 
+
 
 
 
