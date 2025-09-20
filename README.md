@@ -1,9 +1,6 @@
 <div align="center">
-  <h1>Tercer Diplomado en Programación Básica 2025</h1>
+    <h1>Tercer Diplomado en Programación Básica</h1>
   <img src="Assets/banner.jpg" alt="Banner  Diplomado" width="680"/>  
-  <h2>Repositorio Personal</h2>
-<p>Para cualquier actualización o contacto relacionado con el Diplomado, mantente atento a este repositorio. Puedes seguir el progreso y las actualizaciones mediante los enlaces a continuación.
-</p>
 <br><br>
   
   <img src="https://komarev.com/ghpvc/?username=f0xpl0it&color=E56640&style=plastic" alt="Profile view counter" />
@@ -18,8 +15,17 @@
 </div>
 
 ---
+  
+<h2>🗒️ Apuntes Personales</h2>
+<p style="text-align: justify;">
+  Este repositorio contiene mis notas personales y apuntes realizados durante el desarrollo del Tercer Diplomado en Programación Básica. He decidido compartirlos públicamente en GitHub con fines educativos, de repaso y documentación. El contenido se irá actualizando conforme avance el diplomado.
+</p>
 
-## Descripción del Diplomado
+
+
+---
+
+<h2>📘 Descripción del Diplomado </h2>
 
 <p style="text-align: justify;">
 El <strong>International Centre for Theoretical Physics (ICTP)</strong>, centro de categoría uno de la <strong>UNESCO</strong>, a través del <strong>Mesoamerican Centre for Theoretical Physics (MCTP)</strong> con sede en la <strong>Benemérita Universidad Autónoma de Chiapas (UNACH)</strong>, convoca a estudiantes y docentes de México, Centroamérica y el Caribe a participar en el <strong>Tercer Diplomado en Programación Básica 2025</strong>, en modalidad <strong>virtual</strong>. Este diplomado tiene como objetivo introducir a los participantes en las ciencias computacionales y fortalecer sus capacidades en áreas relacionadas con la programación.
@@ -32,7 +38,7 @@ El <strong>International Centre for Theoretical Physics (ICTP)</strong>, centro 
 
 ---
 
-## Cursos
+<h2> 📚 Cursos </h2>
 
 - **[Programación en Mathematica](https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/Wolfram)**
 - **[Programación en C++](https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B)**
@@ -40,7 +46,7 @@ El <strong>International Centre for Theoretical Physics (ICTP)</strong>, centro 
 
 ---
 
-## Requisitos
+<h2> ☑️ Requisitos </h2>
 
 - Registro en el formulario: [Formulario de Registro](https://mctp.mx/forms/tercer-diplomado-en-programacion-basica-2025/)
 - Presentarse a la entrevista virtual.
@@ -52,7 +58,7 @@ El <strong>International Centre for Theoretical Physics (ICTP)</strong>, centro 
 
 ---
 
-## Fechas Importantes
+<h2> 📅 Fechas Importantes </h2>
 
 - **Entrevistas:** 28 y 29 de agosto de 2025
 - **Inicio del curso:** 08 de septiembre de 2025
@@ -67,7 +73,7 @@ Para más detalles, visita el sitio web:
 
 ---
 
-## Contacto
+<h2> 🔗 Contacto </h2>
 
  **MCTP - Mesoamerican Centre for Theoretical Physics**  
 * :email: **Correo Electrónico:** [info@mctp.mx](mailto:info@mctp.mx)  
@@ -76,7 +82,7 @@ Para más detalles, visita el sitio web:
 
 ---
 
-## Licencia
+<h2> ⚖️ Licencia </h2>
 
 Este repositorio está bajo la **Licencia MIT**. Puedes usar, modificar y distribuir el material bajo los términos de esta licencia.
 
