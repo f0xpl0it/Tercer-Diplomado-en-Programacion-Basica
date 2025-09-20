@@ -16,6 +16,7 @@
 
 <h2>👨‍🏫 Profesor Python </h2>
 <p style="max-width: 600px; text-align: justify;"> <strong>Carlos Vaquera Araujo</strong> obtuvo el grado de Doctor en Ciencias en la División de Ciencias e Ingenierías del Campus León de la Universidad de Guanajuato (DCI-UG) en 2012. Posteriormente, realizó una estancia posdoctoral en el Centro Universitario de Investigaciones en Ciencias Básicas (CUICBAS) de la Universidad de Colima, de 2013 a 2015.
+  
 Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropartículas y Física de Altas Energías (AHEP: Astroparticles and High Energy Physics) del Instituto de Física Corpuscular (IFIC), centro mixto de la Universitat de València (UV) y el Consejo Superior de Investigaciones Científicas (CSIC), en Valencia, España. Desde octubre de 2017 se desempeña como Investigador por México, adscrito a la DCI-UG.
 
   ---
@@ -128,6 +129,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
