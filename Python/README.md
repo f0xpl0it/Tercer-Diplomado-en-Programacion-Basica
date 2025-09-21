@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic" alt="Python" />
 <img src="https://komarev.com/ghpvc/?username=f0xpl0it&color=E56640&style=plastic" alt="Profile view counter" />
 <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-007FFF?style=plastic&logo=creativecommons&logoColor=white" alt="Creative Commons BY-NC 4.0 License" />
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica?style=plastic">
 <img src="https://img.shields.io/github/stars/f0xpl0it" alt="GitHub Repo stars" style="margin-left: 10px;" />
 
 </div>
@@ -128,6 +127,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
