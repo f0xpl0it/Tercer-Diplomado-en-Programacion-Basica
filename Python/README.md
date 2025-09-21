@@ -119,7 +119,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 </p>
 
 <p align="center">
-    <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/edit/main/Wolfram" target="_blank">
+    <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/edit/main/Python" target="_blank">
         <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/f0xpl0it/Tercer-Diplomado-en-Programaci-n-B-sica-2025?label=profile%20updated&style=plastic">
     </a>
 </p>
@@ -127,6 +127,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
