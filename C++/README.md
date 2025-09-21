@@ -119,7 +119,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 </p>
 
 <p align="center">
-    <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/edit/main/Wolfram" target="_blank">
+    <a href="[https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/edit/main/Wolfram](https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B)" target="_blank">
         <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/f0xpl0it/Tercer-Diplomado-en-Programaci-n-B-sica-2025?label=profile%20updated&style=plastic">
     </a>
 </p>
@@ -127,6 +127,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
