@@ -4,7 +4,6 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/-Mathematica-DD1100?style=plastic&logo=wolfram&logoColor=white" style="margin-left: 10px;" />
-<img src="https://komarev.com/ghpvc/?username=f0xpl0it&color=E56640&style=plastic" alt="Profile view counter" />
 <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-007FFF?style=plastic&logo=creativecommons&logoColor=white" alt="Creative Commons BY-NC 4.0 License" />
 <img src="https://img.shields.io/github/stars/f0xpl0it" alt="GitHub Repo stars" style="margin-left: 10px;" />
 
@@ -44,41 +43,100 @@
     </tr>
     <tr>
       <td>1</td>
-      <td>Fundamentos de Mathematica</td>
+      <td>Introducción a Wolfram Mathematica</td>
       <td>
         • Interfaz y entorno de trabajo<br />
-        • Álgebra simbólica y expresiones<br />
-        • Variables, funciones y evaluaciones
+        • Captura y análisis de imagen
       </td>
       <td>
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Practica-1-17925.nb">Notebook</a><br />
-        • <a href="LINK">Tarea 1</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notes/curso-Mathematica-1%202025.pdf">Presentación</a>
       </td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Ecuaciones Diferenciales y Visualización</td>
+      <td>Comandos básicos, listas y entidades</td>
       <td>
-        • Solución simbólica de EDs<br />
-        • Gráficas dinámicas<br />
-        • Manipulaciones interactivas
+        • Álgebra simbólica y expresiones<br />
+        • Comandos del sistema<br />
+        • Comandos interactivos<br />
+        • Entidades: países y banderas<br />
+        • Exploración planetaria<br />
+        • Conversiones de unidades y monedas<br />
+        • Listas: creación y operaciones básicas<br />
+        • Funciones para secuencias y combinación de listas<br />
+        • Manipulación avanzada de listas<br />
+        • Funciones adicionales sobre listas<br />
       </td>
       <td>
-        • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Tarea 2</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_1_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 1</a>
       </td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Modelado y Simulación</td>
+      <td>Gráficos, colores y funciones trigonométricas</td>
       <td>
-        • Sistemas dinámicos<br />
-        • Métodos numéricos<br />
-        • Aplicaciones reales
+        • Gráficas estadísticas (barras y pastel)<br />
+        • Selección y manipulación de datos para visualización<br />
+        • Colores y estilos gráficos (paletas y transformaciones)<br />
+        • Funciones matemáticas básicas y plots elementales
       </td>
       <td>
-        • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Proyecto Final</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_2_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 2</a>
+      </td>
+    </tr>
+        </tr>
+        <tr>
+      <td>4</td>
+      <td>Funciones  Trascendentes</td>
+      <td>
+        • Expansión de expresiones trigonométricas<br />
+        • Números complejos<br />
+        • Logaritmos<br />
+        • Exponenciales<br />
+        • Series<br />
+        • Límites<br />
+        • Funciones<br />
+        • Derivadas<br />
+        • Integrales<br />
+        • Notación de Lagrange<br />
+        • Integración Numérica<br />
+        • Tablas<br />
+        • Gráfica de Tablas
+      </td>
+      <td>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_3_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 3</a>
+      </td>
+    </tr>
+        <tr>
+      <td>5</td>
+      <td>Visualización Matemática Interactiva</td>
+      <td>
+        • Gráficas Bidimensionales (2D)<br />
+        • Gráficas Tridimensionales (3D)<br />
+        • Manipuladores Interactivos
+      </td>
+      <td>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="LINK">Tarea 4</a>
+      </td>
+    </tr>
+        </tr>
+        <tr>
+      <td>x</td>
+      <td>xxxxxx</td>
+      <td>
+        • xxx<br />
+        • xxx<br />
+        • xxx<br />
+        • xxx
+      </td>
+      <td>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="LINK">Tarea x</a>
       </td>
     </tr>
   </table>
@@ -131,6 +189,7 @@
 
 
                                                 
+
 
 
 
