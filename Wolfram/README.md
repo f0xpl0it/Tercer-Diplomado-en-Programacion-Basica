@@ -70,6 +70,7 @@
       </td>
       <td>
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Assignments/Tarea_1_Programacio%CC%81n.pdf">Asignación 1</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_1_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 1</a>
       </td>
     </tr>
@@ -84,6 +85,7 @@
       </td>
       <td>
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_2_Programacion_Mathematica_Michael_Paucar.pdf">Asignación 2</a> <br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_2_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 2</a>
       </td>
     </tr>
@@ -108,6 +110,7 @@
       </td>
       <td>
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Assignments/Tarea_3_Programacion.pdf">Asignación 3</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_3_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 3</a>
       </td>
     </tr>
@@ -136,6 +139,7 @@
       </td>
       <td>
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="">Asignación x</a><br />
         • <a href="LINK">Tarea x</a>
       </td>
     </tr>
@@ -189,6 +193,7 @@
 
 
                                                 
+
 
 
 
