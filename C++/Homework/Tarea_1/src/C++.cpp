@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : C++.cpp
 // Author      : Michael Paucar
-// Version     :
+// Version     : v.1
 // Copyright   : Copyright (c) 2025 Michael Paucar. 
 // Description : Tarea 1
 //============================================================================
