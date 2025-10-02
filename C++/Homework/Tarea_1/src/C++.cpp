@@ -2,7 +2,7 @@
 // Name        : C++.cpp
 // Author      : Michael Paucar
 // Version     :
-// Copyright   : Your copyright notice
+// Copyright   : Copyright (c) 2025 Michael Paucar. 
 // Description : Tarea 1
 //============================================================================
 
