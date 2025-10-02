@@ -87,6 +87,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
   <li><a href="https://zinjai.sourceforge.net/" target="_blank">Zinjai</a> – Entorno ligero y fácil de instalar para aprender C++.</li>
   <li><a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> – Editor avanzado con extensiones para C++.</li>
   <li><a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank">Dev-C++</a> – IDE clásico para programar en C++ en Windows.</li>
+  <li><a href="https://www.eclipse.org/" target="_blank">Eclipse</a> – IDE popular y versátil, utilizado tanto para Java como para C++.</li>
 </ul>
 
 <h3>📘 Bibliografía Recomendada</h3>
@@ -127,6 +128,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
