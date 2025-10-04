@@ -50,7 +50,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
     </tr>
     <tr>
       <td>2</td>
-      <td>Punteros y Manejo de Memoria</td>
+      <td>Álgebra y operaciones básicas</td>
       <td>
         • Punteros y referencias<br />
         • Arreglos y cadenas<br />
@@ -63,7 +63,33 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
     </tr>
     <tr>
       <td>3</td>
-      <td>Programación Orientada a Objetos</td>
+      <td>Libreria <code>cmat</code></td>
+      <td>
+        • Clases y objetos<br />
+        • Encapsulamiento y constructores<br />
+        • Herencia y polimorfismo (introductorio)
+      </td>
+      <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="LINK">Proyecto Final</a>
+      </td>
+    </tr>
+        <tr>
+      <td>4</td>
+      <td>Condiciones y Sentencias: <code>if</code>, <code>else</code>, <code>elseif</code>, <code>switch </td>
+      <td>
+        • Clases y objetos<br />
+        • Encapsulamiento y constructores<br />
+        • Herencia y polimorfismo (introductorio)
+      </td>
+      <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="LINK">Proyecto Final</a>
+      </td>
+    </tr>
+        <tr>
+      <td>5</td>
+      <td><code>For</code> Loop</td>
       <td>
         • Clases y objetos<br />
         • Encapsulamiento y constructores<br />
@@ -127,6 +153,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
