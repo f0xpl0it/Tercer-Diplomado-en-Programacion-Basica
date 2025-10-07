@@ -49,7 +49,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
         • Captura y análisis de imagen
       </td>
       <td>
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Practica-1-17925.nb">Notebook</a><br />
+        • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notes/curso-Mathematica-1%202025.pdf">Presentación</a>
       </td>
     </tr>
@@ -69,7 +69,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
         • Funciones adicionales sobre listas<br />
       </td>
       <td>
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Assignments/Tarea_1_Programacio%CC%81n.pdf">Asignación 1</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_1_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 1</a>
       </td>
@@ -84,7 +84,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
         • Funciones matemáticas básicas y plots elementales
       </td>
       <td>
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_2_Programacion_Mathematica_Michael_Paucar.pdf">Asignación 2</a> <br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_2_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 2</a>
       </td>
@@ -109,7 +109,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
         • Gráfica de Tablas
       </td>
       <td>
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Assignments/Tarea_3_Programacion.pdf">Asignación 3</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_3_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 3</a>
       </td>
@@ -123,12 +123,42 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
         • Manipuladores Interactivos
       </td>
       <td>
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Michael%20Paucar.nb">Notebook</a><br />
-        • <a href="LINK">Tarea 4</a>
+        • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Assignments/Tarea_4_Diplomado_Programacion_Basica_2025__Copy_.pdf">Asignación 4</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_4_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 4</a>
       </td>
     </tr>
         </tr>
         <tr>
+      <td>6</td>
+      <td>Álgebra Simbólica y Series Numéricas</td>
+      <td>
+        • Solución de ecuaciones<br />
+        • Manipulación algebraica<br />
+        • Series Numéricas<br /
+      </td>
+      <td>
+        •<a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Assignments/Tarea_5-PROGRAMACION-2025-V1.pdf">Asignación 5</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_5_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 5</a>
+      </td>
+    </tr>
+            <tr>
+      <td>7</td>
+      <td>xxxxxx</td>
+      <td>
+        • xxx<br />
+        • xxx<br />
+        • xxx<br />
+        • xxx
+      </td>
+      <td>
+        •<a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="">Asignación x</a><br />
+        • <a href="LINK">Tarea x</a>
+      </td>
+    </tr>
+            <tr>
       <td>x</td>
       <td>xxxxxx</td>
       <td>
@@ -138,7 +168,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
         • xxx
       </td>
       <td>
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Michael%20Paucar.nb">Notebook</a><br />
+        •<a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
         • <a href="">Asignación x</a><br />
         • <a href="LINK">Tarea x</a>
       </td>
@@ -193,6 +223,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
 
 
                                                 
+
 
 
 
