@@ -39,65 +39,110 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
       <td>1</td>
       <td>Fundamentos de C++</td>
       <td>
-        • Sintaxis básica y estructura de un programa<br />
-        • Tipos de datos, operadores y control de flujo<br />
-        • Funciones y ámbito de variables
+        • Instalción del IDE <br />
+        • Sintaxis básica<br />
+        • Estructura de un programa
       </td>
       <td>
-        • <a href="LINK">Código fuente</a><br />
-        • <a href="LINK">Tarea 1</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%201">Código fuente</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/MIT_Lecture_Notes.pdf">Lecture Notes</a>
       </td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Álgebra y operaciones básicas</td>
+      <td>Estructura de C++</td>
       <td>
-        • Punteros y referencias<br />
-        • Arreglos y cadenas<br />
-        • Memoria dinámica con <code>new</code> y <code>delete</code>
+        • Modelo de Compilación<br />
+        • Paradigmas de Programación<br />
+        • Comparativa entre C y C++<br />
+        • Tipos de Datos  <br />
+        • Operadores Aritméticos<br />
+        • Declaración de Variables<br />
+        • Libreria <code>cmat</code>
       </td>
       <td>
-        • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Tarea 2</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%202">Código fuente</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/MIT_Lecture_Notes.pdf">Lecture Notes</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Assignments/Tarea_1_c%2B%2B.pdf">Asignación 1</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Homework/Tarea_1">Tarea 1</a>
       </td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Libreria <code>cmat</code></td>
+      <td>Control de Flujo Condicional </td>
       <td>
-        • Clases y objetos<br />
-        • Encapsulamiento y constructores<br />
-        • Herencia y polimorfismo (introductorio)
+        • Fundamentos de Estructuras Condicionales<br />
+        • Instrucción <code>if</code><br />
+        • Operadores Relacionales<br />
+        • Expresiones Condicionales Compuestas
       </td>
       <td>
-        • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Proyecto Final</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%203">Código fuente</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/MIT_Lecture_Notes.pdf">Lecture Notes</a>
       </td>
     </tr>
         <tr>
       <td>4</td>
-      <td>Condiciones y Sentencias: <code>if</code>, <code>else</code>, <code>elseif</code>, <code>switch </td>
+      <td>Estructuras de Condición</td>
       <td>
         • Clases y objetos<br />
-        • Encapsulamiento y constructores<br />
-        • Herencia y polimorfismo (introductorio)
+        • Instrucción <code>if</code>, <code>else</code> y <code>else if</code><br />
+        • Estructuras Condicionales Anidadas<br />
+        • Instrucción <code>switch</code><br />
+        • Cuándo Usar <code>if</code> o <code>switch</code>
       </td>
       <td>
-        • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Proyecto Final</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%204">Código fuente</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/MIT_Lecture_Notes.pdf">Lecture Notes</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Assignments/Tarea_2_cpp.pdf">Asignación 2</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Homework/Tarea_2">Tarea 2</a>
       </td>
     </tr>
         <tr>
       <td>5</td>
-      <td><code>For</code> Loop</td>
+      <td>Estructura de Repetición</td>
       <td>
-        • Clases y objetos<br />
-        • Encapsulamiento y constructores<br />
-        • Herencia y polimorfismo (introductorio)
+        • Fundamentos del Bucle <code>while</code><br />
+        • Sintaxis y Funcionamiento<br />
+        • Uso de Contadores y Acumuladores<br />
+        • Sintaxis y Funcionamiento<br />
+        • Validación de Datos con <code>while</code><br />
+        • Consideraciones y Errores Frecuentes
       </td>
       <td>
-        • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Proyecto Final</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%205">Código fuente</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/MIT_Lecture_Notes.pdf">Lecture Notes</a>
+      </td>
+    </tr>
+          <tr>
+      <td>6</td>
+      <td>Estructura de Repetición</td>
+      <td>
+        • Fundamentos del Bucle <code>do...while</code><br />
+        • <code>while</code> y <code>do...while</code><br />
+        • Aplicaciones Comunes<br />
+        • Sintaxis y Funcionamiento<br />
+        • Validación de Entradas 
+      </td>
+      <td>
+        • <a href="">Código fuente</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/MIT_Lecture_Notes.pdf">Lecture Notes</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Assignments/Tarea3.pdf">Asignación 3</a><br />
+        • <a href="LINK">Tarea 3</a>
+      </td>
+    </tr>
+          <tr>
+      <td>7</td>
+      <td>Estructura de Repetición</td>
+      <td>
+        • Fundamentos del Bucle <code>for</code><br />
+        • Estructura y Flujo de Ejecución<br />
+        • Iteración Controlada con Contadores<br />
+        • Bucles Anidados
+      </td>
+      <td>
+        • <a href="LINK">Código fuente</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/MIT_Lecture_Notes.pdf">Lecture Notes</a>
       </td>
     </tr>
   </table>
@@ -153,6 +198,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
