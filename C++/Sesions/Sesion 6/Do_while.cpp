@@ -63,7 +63,7 @@ void cajero() {
     cout << "2: Depositar dinero" << endl;
     cout << "0: Salir" << endl;
 
-    cout << "Ilige una opci¢n: ";
+    cout << "Elige una opci¢n: ";
     cin >> opcion;
 
     if (opcion == 1) {
