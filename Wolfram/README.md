@@ -138,11 +138,11 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
         • Series Numéricas<br /
       </td>
       <td>
-        •<a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Assignments/Tarea_5-PROGRAMACION-2025-V1.pdf">Asignación 5</a><br />
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_5_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 5</a>
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Assignments/Tarea-6-programacion-2025.pdf">Asignación 6</a><br />
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_6_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 6</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_5_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 5</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_6_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 6</a><br />
       </td>
     </tr>
             <tr>
@@ -155,7 +155,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
         • xxx
       </td>
       <td>
-        •<a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
         • <a href="">Asignación x</a><br />
         • <a href="LINK">Tarea x</a>
       </td>
@@ -170,7 +170,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
         • xxx
       </td>
       <td>
-        •<a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
         • <a href="">Asignación x</a><br />
         • <a href="LINK">Tarea x</a>
       </td>
@@ -225,6 +225,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
 
 
                                                 
+
 
 
 
