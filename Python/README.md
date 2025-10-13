@@ -74,6 +74,71 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
         • <a href="LINK">Proyecto Final</a>
       </td>
     </tr>
+      <td>4</td>
+      <td>Estructuras de Datos y Funciones</td>
+      <td>
+        • Listas, tuplas y diccionarios<br />
+        • Funciones definidas por el usuario<br />
+        • Buenas prácticas de codificación
+      </td>
+      <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="LINK">Tarea 2</a>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Estructuras de Datos y Funciones</td>
+      <td>
+        • Listas, tuplas y diccionarios<br />
+        • Funciones definidas por el usuario<br />
+        • Buenas prácticas de codificación
+      </td>
+      <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="LINK">Tarea 2</a>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Estructuras de Datos y Funciones</td>
+      <td>
+        • Listas, tuplas y diccionarios<br />
+        • Funciones definidas por el usuario<br />
+        • Buenas prácticas de codificación
+      </td>
+      <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="LINK">Tarea 2</a>
+      </td>
+    </tr>
+    <tr>
+    <td>7</td>
+      <td>Estructuras de Datos y Funciones</td>
+      <td>
+        • Listas, tuplas y diccionarios<br />
+        • Funciones definidas por el usuario<br />
+        • Buenas prácticas de codificación
+      </td>
+      <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="LINK">Tarea 2</a>
+      </td>
+    </tr>
+    <tr>
+    <td>8</td>
+      <td>""</td>
+      <td>
+        • ""<br />
+        • ""<br />
+        • ""
+      </td>
+      <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="LINK">Tarea x</a>
+      </td>
+    </tr>
+    <tr>
   </table>
 </div>
 
@@ -126,6 +191,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
