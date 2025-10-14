@@ -152,7 +152,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
         • Números Complejos<br />
         • Conversión de la forma Polar a Rectangular  <br />
         • Conversión de la forma Rectangular a Polar <br />
-        • Fundamentos de Matrices
+        • Gráficas de Números Complejos
       </td>
       <td>
         • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
@@ -160,7 +160,23 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
         • <a href="LINK">Tarea 7</a>
       </td>
     </tr>
-            <tr>
+    <tr>
+      <td>8</td>
+      <td>Álgebra Lineal</td>
+      <td>
+        • Definición y creación de matrices<br />
+        • Operaciones básicas con matrices<br />
+        • Acceso a elementos<br />
+        • xxx<br />
+        • xxx
+      </td>
+      <td>
+        • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="">Asignación x</a><br />
+        • <a href="LINK">Tarea x</a>
+      </td>
+    </tr>
+    <tr>
       <td>x</td>
       <td>xxxxxx</td>
       <td>
@@ -225,6 +241,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
 
 
                                                 
+
 
 
 
