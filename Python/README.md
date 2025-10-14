@@ -39,90 +39,97 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
       <td>1</td>
       <td>Introducción a Python</td>
       <td>
-        • Sintaxis básica<br />
+        • Filosofía de Python<br />
         • Variables y tipos de datos<br />
-        • Operadores y estructuras de control
+        • Operadores 
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Tarea 1</a>
+        • <a href="LINK">Reto 1</a>
       </td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Estructuras de Datos y Funciones</td>
+      <td>Tipos de Operadores y Strings</td>
       <td>
-        • Listas, tuplas y diccionarios<br />
-        • Funciones definidas por el usuario<br />
-        • Buenas prácticas de codificación
+        • Operadores Relacionales<br />
+        • Operadores Lógicos<br />
+        • Operadores de Asignación<br />
+        • Operador Walrus<br />
+        • Operaciones con Cadenas de Caracteres (Strings)
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Tarea 2</a>
+        • <a href="LINK">Reto 2</a>
       </td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Visualización y Análisis de Datos</td>
+      <td>Strings y Colecciones de Datos</td>
       <td>
-        • Introducción a pandas y matplotlib<br />
-        • Lectura y procesamiento de archivos<br />
-        • Gráficas y estadísticas básicas
+        • Indización de Strings<br />
+        • Concatenación de Cadenas<br />
+        • Formatos de print e Interpolación<br />
+        • Prefijos e interpolaciones<br />
+        • Contenedores
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Proyecto Final</a>
+        • <a href="LINK">Reto 3</a>
       </td>
     </tr>
       <td>4</td>
-      <td>Estructuras de Datos y Funciones</td>
+      <td>Colecciones de Datos</td>
       <td>
-        • Listas, tuplas y diccionarios<br />
-        • Funciones definidas por el usuario<br />
-        • Buenas prácticas de codificación
+        • Listas<br />
+        • Tuplas<br />
+        • Diccionarios
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Tarea 2</a>
+        • <a href="LINK">Lecture Notes</a>
       </td>
     </tr>
     <tr>
       <td>5</td>
-      <td>Estructuras de Datos y Funciones</td>
+      <td>Condiciones, ciclos y control de flujo</td>
       <td>
-        • Listas, tuplas y diccionarios<br />
-        • Funciones definidas por el usuario<br />
-        • Buenas prácticas de codificación
+        • Sentencia <code>if</code><br />
+        • Sentencia <code>if-else</code><br />
+        • Sentencia <code>if-elif-else</code><br />
+        • Sentencias <code>if</code> anidadas<br />
+        • Ciclo <code>for</code>
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Tarea 2</a>
+        • <a href="LINK">Reto 4</a>
       </td>
     </tr>
     <tr>
       <td>6</td>
-      <td>Estructuras de Datos y Funciones</td>
+      <td>Estructuras de Control</td>
       <td>
-        • Listas, tuplas y diccionarios<br />
-        • Funciones definidas por el usuario<br />
-        • Buenas prácticas de codificación
+        • Control de flujo en ciclos <code>for</code><br />
+        • Ciclo <code>While</code><br />
+        • Sentencia <code>match-case</code>
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Tarea 2</a>
+        • <a href="LINK">Reto 5</a>
       </td>
     </tr>
     <tr>
     <td>7</td>
-      <td>Estructuras de Datos y Funciones</td>
+      <td>Programación Funcional Básica</td>
       <td>
-        • Listas, tuplas y diccionarios<br />
+        • Definición de funciones<br />
         • Funciones definidas por el usuario<br />
-        • Buenas prácticas de codificación
+        • Funciones con argurmentos variables<br />
+        • Función Lambda
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Tarea 2</a>
+        • <a href="LINK">Reto 6</a>
       </td>
     </tr>
     <tr>
@@ -135,7 +142,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Tarea x</a>
+        • <a href="LINK">Reto x</a>
       </td>
     </tr>
     <tr>
@@ -191,6 +198,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
