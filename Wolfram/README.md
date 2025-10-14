@@ -147,17 +147,17 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
     </tr>
             <tr>
       <td>7</td>
-      <td>xxxxxx</td>
+      <td>Variable Compleja</td>
       <td>
-        • xxx<br />
-        • xxx<br />
-        • xxx<br />
-        • xxx
+        • Números Complejos<br />
+        • Conversión de la forma Polar a Rectangular  <br />
+        • Conversión de la forma Rectangular a Polar <br />
+        • Fundamentos de matrices
       </td>
       <td>
         • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
-        • <a href="">Asignación x</a><br />
-        • <a href="LINK">Tarea x</a>
+        • <a href="">Asignación 7</a><br />
+        • <a href="LINK">Tarea 7</a>
       </td>
     </tr>
             <tr>
@@ -225,6 +225,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
 
 
                                                 
+
 
 
 
