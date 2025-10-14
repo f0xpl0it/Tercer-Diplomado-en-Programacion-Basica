@@ -152,7 +152,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
         • Números Complejos<br />
         • Conversión de la forma Polar a Rectangular  <br />
         • Conversión de la forma Rectangular a Polar <br />
-        • Fundamentos de matrices
+        • Fundamentos de Matrices
       </td>
       <td>
         • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
@@ -225,6 +225,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
 
 
                                                 
+
 
 
 
