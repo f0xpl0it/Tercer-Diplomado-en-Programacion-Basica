@@ -131,7 +131,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Homework/Tarea_3">Tarea 3</a>
       </td>
     </tr>
-          <tr>
+    <tr>
       <td>7</td>
       <td>Estructura de Repetición</td>
       <td>
@@ -139,6 +139,34 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • Estructura y Flujo de Ejecución<br />
         • Iteración Controlada con Contadores<br />
         • Bucles Anidados
+      </td>
+      <td>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%207">Código fuente</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/MIT_Lecture_Notes.pdf">Lecture Notes</a><br />
+        • <a href="LINK">Asignación 4</a><br />
+        • <a href="LINK">Tarea 4</a>
+      </td>
+    </tr>
+      <td>8</td>
+      <td>""</td>
+      <td>
+        • ""<br />
+        • ""<br />
+        • ""<br />
+        • ""
+      </td>
+      <td>
+        • <a href="LINK">Código fuente</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/MIT_Lecture_Notes.pdf">Lecture Notes</a>
+      </td>
+    </tr>
+      <td>9</td>
+      <td>""</td>
+      <td>
+        • ""<br />
+        • ""<br />
+        • ""<br />
+        • ""
       </td>
       <td>
         • <a href="LINK">Código fuente</a><br />
@@ -198,6 +226,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
