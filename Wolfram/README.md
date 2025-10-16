@@ -135,7 +135,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
       <td>
         • Solución de ecuaciones<br />
         • Manipulación algebraica<br />
-        • Series Numéricas<br /
+        • Series Numéricas
       </td>
       <td>
         • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
@@ -167,13 +167,13 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
         • Definición y creación de matrices<br />
         • Operaciones básicas con matrices<br />
         • Acceso a elementos<br />
-        • xxx<br />
-        • xxx
+        • Operaciones avanzadas con matrices y vectores<br />
+        • Programación básica en Mathematica
       </td>
       <td>
         • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
-        • <a href="">Asignación x</a><br />
-        • <a href="LINK">Tarea x</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Assignments/Tarea-7-2025.pdf">Asignación 7</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_7_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 7</a>
       </td>
     </tr>
     <tr>
@@ -241,6 +241,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
 
 
                                                 
+
 
 
 
