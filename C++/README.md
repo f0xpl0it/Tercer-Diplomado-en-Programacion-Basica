@@ -147,7 +147,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
       </td>
     </tr>
       <td>8</td>
-      <td>""</td>
+      <td>Arreglos</td>
       <td>
         • Declaración de un arreglo<br />
         • Tamño del arreglo<br />
@@ -163,7 +163,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
       </td>
     </tr>
       <td>9</td>
-      <td>Arrays</td>
+      <td>"</td>
       <td>
         • ""<br />
         • ""<br />
@@ -236,6 +236,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
