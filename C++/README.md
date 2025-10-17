@@ -150,7 +150,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
       <td>Arreglos</td>
       <td>
         • Declaración de un arreglo<br />
-        • Tamño del arreglo<br />
+        • Tamaño del arreglo<br />
         • Arreglos y bucles<br />
         • Arreglos unidimensionales<br />
         • Matrices cuadradas<br />
@@ -236,6 +236,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
