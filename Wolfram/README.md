@@ -156,8 +156,8 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
       </td>
       <td>
         • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
-        • <a href="">Asignación 7</a><br />
-        • <a href="LINK">Tarea 7</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Assignments/Tarea-7-2025.pdf">Asignación 7</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_7_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 7</a>
       </td>
     </tr>
     <tr>
@@ -239,6 +239,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
 
 
                                                 
+
 
 
 
