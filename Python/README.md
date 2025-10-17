@@ -120,7 +120,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
     </tr>
     <tr>
     <td>7</td>
-      <td>Programación Funcional Básica</td>
+      <td>Programación Funcional</td>
       <td>
         • Definición de funciones<br />
         • Funciones definidas por el usuario<br />
@@ -134,6 +134,20 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
     </tr>
     <tr>
     <td>8</td>
+      <td>Funciones Avanzadas</td>
+      <td>
+        • Notas sobre definición de funciones<br />
+        • Excepciones<br />
+        • Función <code>map</code><br />
+        • Función <code>filter</code>
+      </td>
+      <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="LINK">Reto x</a>
+      </td>
+    </tr>
+    <tr>
+    <td>9</td>
       <td>""</td>
       <td>
         • ""<br />
@@ -146,6 +160,18 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
       </td>
     </tr>
     <tr>
+    <td>10</td>
+      <td>""</td>
+      <td>
+        • ""<br />
+        • ""<br />
+        • ""
+      </td>
+      <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="LINK">Reto x</a>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -198,6 +224,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
