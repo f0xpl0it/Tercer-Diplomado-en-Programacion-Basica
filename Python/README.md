@@ -143,7 +143,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Reto 7x</a>
+        • <a href="LINK">Reto 7</a>
       </td>
     </tr>
     <tr>
@@ -224,6 +224,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
