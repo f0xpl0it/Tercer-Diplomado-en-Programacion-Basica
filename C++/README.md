@@ -149,6 +149,22 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
       <td>8</td>
       <td>""</td>
       <td>
+        • Declaración de un arreglo<br />
+        • Tamño del arreglo<br />
+        • Arreglos y bucles<br />
+        • Arreglos unidimensionales<br />
+        • Matrices cuadradas<br />
+        • Matrices nxn <br />
+        • Operaciones con matrices
+      </td>
+      <td>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%208">Código fuente</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/MIT_Lecture_Notes.pdf">Lecture Notes</a>
+      </td>
+    </tr>
+      <td>9</td>
+      <td>Arrays</td>
+      <td>
         • ""<br />
         • ""<br />
         • ""<br />
@@ -159,7 +175,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/MIT_Lecture_Notes.pdf">Lecture Notes</a>
       </td>
     </tr>
-      <td>9</td>
+        <td>10</td>
       <td>""</td>
       <td>
         • ""<br />
@@ -167,11 +183,6 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • ""<br />
         • ""
       </td>
-      <td>
-        • <a href="LINK">Código fuente</a><br />
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/MIT_Lecture_Notes.pdf">Lecture Notes</a>
-      </td>
-    </tr>
   </table>
 </div>
 
@@ -225,6 +236,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
