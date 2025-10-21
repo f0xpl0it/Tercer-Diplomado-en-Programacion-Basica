@@ -60,7 +60,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Reto 2</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto 2</a>
       </td>
     </tr>
     <tr>
@@ -75,7 +75,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Reto 3</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto 3</a>
       </td>
     </tr>
       <td>4</td>
@@ -86,8 +86,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
         • Diccionarios
       </td>
       <td>
-        • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Lecture Notes</a>
+        • <a href="LINK">Notebook</a>
       </td>
     </tr>
     <tr>
@@ -102,7 +101,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Reto 4</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto 4</a>
       </td>
     </tr>
     <tr>
@@ -115,7 +114,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Reto 5</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto 5</a>
       </td>
     </tr>
     <tr>
@@ -129,7 +128,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Reto 6</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto 6</a>
       </td>
     </tr>
     <tr>
@@ -143,20 +142,22 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Reto 7</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto 7</a>
       </td>
     </tr>
     <tr>
     <td>9</td>
-      <td>""</td>
+      <td>POO</td>
       <td>
-        • ""<br />
-        • ""<br />
-        • ""
+        • Función <code>reduce</code><br />
+        • Clases y Objetos<br />
+        • Clases<br />
+        • Constructores<br />
+        • Métodos
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Reto x</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto 8</a>
       </td>
     </tr>
     <tr>
@@ -169,7 +170,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Reto x</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto x</a>
       </td>
     </tr>
   </table>
@@ -224,6 +225,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
