@@ -165,12 +165,11 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
       </td>
     </tr>
       <td>9</td>
-      <td>"</td>
+      <td>Funciones</td>
       <td>
-        • ""<br />
-        • ""<br />
-        • ""<br />
-        • ""
+        • Estructura<br />
+        • Declaración<br />
+        • Parámetros
       </td>
       <td>
         • <a href="LINK">Código fuente</a><br />
@@ -238,6 +237,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
