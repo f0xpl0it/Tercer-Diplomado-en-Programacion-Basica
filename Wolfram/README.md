@@ -179,9 +179,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
       <td>Condicionales </td>
       <td>
         • Operadores condicionales<br />
-        • Condicional <code>if</code><br />
-        • xxx<br />
-        • xxx
+        • Condicional <code>if</code>
       </td>
       <td>
         • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
@@ -284,6 +282,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
 
 
                                                 
+
 
 
 
