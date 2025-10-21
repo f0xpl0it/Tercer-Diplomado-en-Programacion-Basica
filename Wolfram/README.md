@@ -175,6 +175,51 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
       </td>
     </tr>
     <tr>
+      <td>9</td>
+      <td>Condicionales </td>
+      <td>
+        • Operadores condicionales<br />
+        • Condicional <code>if</code><br />
+        • xxx<br />
+        • xxx
+      </td>
+      <td>
+        • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Assignments/tarea-programacion-20_10.pdf">Asignación 8</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_8_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 8</a>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>xxxxxx</td>
+      <td>
+        • xxx<br />
+        • xxx<br />
+        • xxx<br />
+        • xxx
+      </td>
+      <td>
+        • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="">Asignación x</a><br />
+        • <a href="LINK">Tarea x</a>
+      </td>
+    </tr>
+    <tr>
+      <td>x</td>
+      <td>xxxxxx</td>
+      <td>
+        • xxx<br />
+        • xxx<br />
+        • xxx<br />
+        • xxx
+      </td>
+      <td>
+        • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="">Asignación x</a><br />
+        • <a href="LINK">Tarea x</a>
+      </td>
+    </tr>
+    <tr>
       <td>x</td>
       <td>xxxxxx</td>
       <td>
@@ -239,6 +284,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
 
 
                                                 
+
 
 
 
