@@ -172,7 +172,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • Parámetros
       </td>
       <td>
-        • <a href="LINK">Código fuente</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%209">Código fuente</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/MIT_Lecture_Notes.pdf">Lecture Notes</a>
       </td>
     </tr>
@@ -185,7 +185,9 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
       </td>
           <td>
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%2010">Código fuente</a><br />
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/MIT_Lecture_Notes.pdf">Lecture Notes</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/MIT_Lecture_Notes.pdf">Lecture Notes</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Assignments/tarea5.pdf">Asignación 6</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Homework/Tarea_5">Tarea 6</a>
       </td>
     </tr>
             <td>11</td>
@@ -267,6 +269,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
