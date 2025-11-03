@@ -206,6 +206,32 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • <a href="LINK">Tarea x</a>
       </td>
     </tr>
+            <td>13</td>
+      <td>""</td>
+      <td>
+        • ""<br />
+        • ""<br />
+        • ""<br />
+        • ""
+      </td>
+          <td>
+        • <a href="LINK">Código fuente</a><br />
+        • <a href="LINK">Tarea x</a>
+      </td>
+    </tr>
+            <td>14</td>
+      <td>""</td>
+      <td>
+        • ""<br />
+        • ""<br />
+        • ""<br />
+        • ""
+      </td>
+          <td>
+        • <a href="LINK">Código fuente</a><br />
+        • <a href="LINK">Tarea x</a>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -259,6 +285,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
