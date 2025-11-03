@@ -44,6 +44,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • Estructura de un programa
       </td>
       <td>
+        • <a href="LINK">Lecture Notes</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%201">Código fuente</a>
       </td>
     </tr>
@@ -60,6 +61,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • Libreria <code>cmat</code>
       </td>
       <td>
+        • <a href="LINK">Lecture Notes</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%202">Código fuente</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Assignments/Tarea_1_c%2B%2B.pdf">Asignación 1</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Homework/Tarea_1">Tarea 1</a>
@@ -75,6 +77,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • Expresiones Condicionales Compuestas
       </td>
       <td>
+        • <a href="LINK">Lecture Notes</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%203">Código fuente</a>
       </td>
     </tr>
@@ -88,6 +91,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • Cuándo Usar <code>if</code> o <code>switch</code>
       </td>
       <td>
+        • <a href="LINK">Lecture Notes</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%204">Código fuente</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Assignments/Tarea_2_cpp.pdf">Asignación 2</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Homework/Tarea_2">Tarea 2</a>
@@ -105,6 +109,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • Consideraciones y Errores Frecuentes
       </td>
       <td>
+        • <a href="LINK">Lecture Notes</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%205">Código fuente</a>
       </td>
     </tr>
@@ -119,6 +124,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • Validación de Entradas 
       </td>
       <td>
+        • <a href="LINK">Lecture Notes</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%206">Código fuente</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Assignments/Tarea3.pdf">Asignación 3</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Homework/Tarea_3">Tarea 3</a>
@@ -134,6 +140,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • Bucles Anidados
       </td>
       <td>
+        • <a href="LINK">Lecture Notes</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%207">Código fuente</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Assignments/Tarea4.pdf">Asignación 4</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Homework/Tarea_4">Tarea 4</a>
@@ -151,6 +158,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • Operaciones con matrices
       </td>
       <td>
+        • <a href="LINK">Lecture Notes</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%208">Código fuente</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Assignments/tarea5.pdf">Asignación 5</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Homework/Tarea_5">Tarea 5</a>
@@ -164,6 +172,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • Parámetros
       </td>
       <td>
+        • <a href="LINK">Lecture Notes</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%209">Código fuente</a>
       </td>
     </tr>
@@ -175,6 +184,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • Paso por referencia
       </td>
           <td>
+        • <a href="LINK">Lecture Notes</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%2010">Código fuente</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Assignments/tarea5.pdf">Asignación 6</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Homework/Tarea_6">Tarea 6</a>
@@ -189,6 +199,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • ""
       </td>
           <td>
+        • <a href="LINK">Lecture Notes</a><br />
         • <a href="LINK">Código fuente</a><br />
         • <a href="LINK">Tarea x</a>
       </td>
@@ -202,6 +213,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • ""
       </td>
           <td>
+        • <a href="LINK">Lecture Notes</a><br />
         • <a href="LINK">Código fuente</a><br />
         • <a href="LINK">Tarea x</a>
       </td>
@@ -215,6 +227,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • ""
       </td>
           <td>
+        • <a href="LINK">Lecture Notes</a><br />
         • <a href="LINK">Código fuente</a><br />
         • <a href="LINK">Tarea x</a>
       </td>
@@ -228,6 +241,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • ""
       </td>
           <td>
+        • <a href="LINK">Lecture Notes</a><br />
         • <a href="LINK">Código fuente</a><br />
         • <a href="LINK">Tarea x</a>
       </td>
@@ -285,6 +299,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
