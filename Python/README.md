@@ -147,7 +147,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
     </tr>
     <tr>
     <td>9</td>
-      <td>POO</td>
+      <td>POO - I </td>
       <td>
         • Función <code>reduce</code><br />
         • Clases y Objetos<br />
@@ -162,6 +162,58 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
     </tr>
     <tr>
     <td>10</td>
+      <td>POO - II</td>
+      <td>
+        • Clases, Constructores y Métodos<br />
+        • Herencia<br />
+        • PolimorfismO
+      </td>
+      <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto x</a>
+      </td>
+    </tr>
+    <tr>
+    <td>11</td>
+      <td>""</td>
+      <td>
+        • ""<br />
+        • ""<br />
+        • ""
+      </td>
+      <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto x</a>
+      </td>
+    </tr>
+    <tr>
+    <td>12</td>
+      <td>""</td>
+      <td>
+        • ""<br />
+        • ""<br />
+        • ""
+      </td>
+      <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto x</a>
+      </td>
+    </tr>
+    <tr>
+    <td>13</td>
+      <td>""</td>
+      <td>
+        • ""<br />
+        • ""<br />
+        • ""
+      </td>
+      <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto x</a>
+      </td>
+    </tr>
+    <tr>
+    <td>14</td>
       <td>""</td>
       <td>
         • ""<br />
@@ -225,6 +277,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
