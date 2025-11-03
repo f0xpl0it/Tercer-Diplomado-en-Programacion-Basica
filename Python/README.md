@@ -166,7 +166,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
       <td>
         • Clases, Constructores y Métodos<br />
         • Herencia<br />
-        • PolimorfismO
+        • Polimorfismo
       </td>
       <td>
         • <a href="LINK">Notebook</a>
@@ -276,6 +276,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
