@@ -191,17 +191,16 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
     </tr>
     <tr>
       <td>10</td>
-      <td>xxxxxx</td>
+      <td>Bucle <code>for</code></td>
       <td>
-        • xxx<br />
-        • xxx<br />
-        • xxx<br />
-        • xxx
+        • Operadores d eincremento y decremento<br />
+        • Bucle for<br />
+        • Armar listas
       </td>
       <td>
         • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
-        • <a href="">Asignación x</a><br />
-        • <a href="LINK">Tarea x</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Assignments/Tarea_22_de_octubre_2025_programacion.pdf">Asignación 10</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_10_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 10</a>
       </td>
     </tr>
     <tr>
@@ -284,6 +283,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
 
 
                                                 
+
 
 
 
