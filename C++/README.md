@@ -158,7 +158,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • Operaciones con matrices
       </td>
       <td>
-        • <a href="LINK">Lecture Notes</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/Session_08.ipynb">Lecture Notes</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%208">Código fuente</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Assignments/tarea5.pdf">Asignación 5</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Homework/Tarea_5">Tarea 5</a>
@@ -299,6 +299,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
