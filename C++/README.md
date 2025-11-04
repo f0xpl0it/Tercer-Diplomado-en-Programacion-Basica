@@ -191,16 +191,16 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
       </td>
     </tr>
             <td>11</td>
-      <td>""</td>
+      <td>Vectores</td>
       <td>
-        • ""<br />
-        • ""<br />
-        • ""<br />
-        • ""
+        • Estructura<br />
+        • Longitud de un Vector<br />
+        • Agregar elementos<br />
+        • Eliminar elementos
       </td>
           <td>
         • <a href="LINK">Lecture Notes</a><br />
-        • <a href="LINK">Código fuente</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sesions/Sesion%2011">Código fuente</a><br />
         • <a href="LINK">Tarea x</a>
       </td>
     </tr>
@@ -299,6 +299,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
