@@ -61,7 +61,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • Libreria <code>cmat</code>
       </td>
       <td>
-        • <a href="LINK">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/Session_02.ipynb">Notebook</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sessions/Session_02">Código fuente</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Assignments/Tarea_1_c%2B%2B.pdf">Asignación 1</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Homework/Tarea_1">Tarea 1</a>
@@ -300,6 +300,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
