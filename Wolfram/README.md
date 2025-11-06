@@ -204,6 +204,21 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
       </td>
     </tr>
     <tr>
+      <td>11</td>
+      <td>Control de flujo y depuración</td>
+      <td>
+        • Which<br />
+        • Echo<br />
+        • Switch<br />
+        • While
+      </td>
+      <td>
+        • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Assignments/Tarea_03_nov_25_programacion.pdf">Asignación 11</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_11_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 11</a>
+      </td>
+    </tr>
+    <tr>
       <td>x</td>
       <td>xxxxxx</td>
       <td>
@@ -283,6 +298,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
 
 
                                                 
+
 
 
 
