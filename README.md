@@ -5,7 +5,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=f0xpl0it&color=E56640&style=plastic" alt="Profile view counter" />
   <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-007FFF?style=plastic&logo=creativecommons&logoColor=white" alt="Creative Commons BY-NC 4.0 License" />
-  <img src="https://img.shields.io/badge/Project%20Status-26%2F100-%23D4A017?style=plastic&logo=https://raw.githubusercontent.com/tuusuario/repositorio/main/ratatui.svg&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project%20Status-61%2F100-%23D4A017?style=plastic&logo=https://raw.githubusercontent.com/tuusuario/repositorio/main/ratatui.svg&logoColor=white" />
   <img src="https://img.shields.io/github/stars/f0xpl0it" alt="GitHub Repo stars" />
 </div>
 
