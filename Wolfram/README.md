@@ -219,6 +219,37 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
       </td>
     </tr>
     <tr>
+      <td>12</td>
+      <td>Análisis de Datos</td>
+      <td>
+        • Import<br />
+        • Export<br />
+        • Do<br />
+        • Fit<br />
+        • FindFit
+      </td>
+      <td>
+        • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Assignments/Tarea_10_11_2025_programacion.pdf">Asignación 12</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Homework/Tarea_12_Programacion_Mathematica_Michael_Paucar.pdf">Tarea 12</a>
+      </td>
+    </tr>
+    <tr>
+      <td>x</td>
+      <td>xxxxxx</td>
+      <td>
+        • xxx<br />
+        • xxx<br />
+        • xxx<br />
+        • xxx
+      </td>
+      <td>
+        • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
+        • <a href="">Asignación x</a><br />
+        • <a href="LINK">Tarea x</a>
+      </td>
+    </tr>
+    <tr>
       <td>x</td>
       <td>xxxxxx</td>
       <td>
@@ -298,6 +329,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
 
 
                                                 
+
 
 
 
