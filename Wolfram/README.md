@@ -193,7 +193,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
       <td>10</td>
       <td>Bucle <code>for</code></td>
       <td>
-        • Operadores d eincremento y decremento<br />
+        • Operadores de incremento y decremento<br />
         • Bucle for<br />
         • Armar listas
       </td>
@@ -329,6 +329,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
 
 
                                                 
+
 
 
 
