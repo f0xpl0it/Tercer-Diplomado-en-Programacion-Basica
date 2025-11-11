@@ -206,26 +206,24 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
       </td>
     </tr>
             <td>12</td>
-      <td>""</td>
+      <td>Manejo de Datos - I</td>
       <td>
-        • ""<br />
-        • ""<br />
-        • ""<br />
-        • ""
+        • Librería <code>fstream</code><br />
+        • <code>fstream</code> File Stream<br />
+        • <code>ofstream</code> Output File Stream<br />
+        • Estructura
       </td>
           <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Código fuente</a><br />
-        • <a href="LINK">Tarea x</a>
+        • <a href="LINK">Código fuente</a>
       </td>
     </tr>
             <td>13</td>
-      <td>""</td>
+      <td>Manejo de Datos - II</td>
       <td>
-        • ""<br />
-        • ""<br />
-        • ""<br />
-        • ""
+        • <code>ifstream</code> Input File Stream<br />
+        • Estructura<br />
+        • Ejemplos
       </td>
           <td>
         • <a href="LINK">Notebook</a><br />
@@ -234,6 +232,48 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
       </td>
     </tr>
             <td>14</td>
+      <td>""</td>
+      <td>
+        • ""<br />
+        • ""<br />
+        • ""<br />
+        • ""
+      </td>
+          <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="LINK">Código fuente</a><br />
+        • <a href="LINK">Tarea x</a>
+      </td>
+    </tr>
+            <td>15</td>
+      <td>""</td>
+      <td>
+        • ""<br />
+        • ""<br />
+        • ""<br />
+        • ""
+      </td>
+          <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="LINK">Código fuente</a><br />
+        • <a href="LINK">Tarea x</a>
+      </td>
+    </tr>
+            <td>16</td>
+      <td>""</td>
+      <td>
+        • ""<br />
+        • ""<br />
+        • ""<br />
+        • ""
+      </td>
+          <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="LINK">Código fuente</a><br />
+        • <a href="LINK">Tarea x</a>
+      </td>
+    </tr>
+            <td>17</td>
       <td>""</td>
       <td>
         • ""<br />
@@ -300,6 +340,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
