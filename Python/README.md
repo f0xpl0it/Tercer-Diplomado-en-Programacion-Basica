@@ -174,11 +174,11 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
     </tr>
     <tr>
     <td>11</td>
-      <td>""</td>
+      <td>Sympy</td>
       <td>
-        • ""<br />
-        • ""<br />
-        • ""
+        • Símbolos<br />
+        • Definición de funciones<br />
+        • Expresiones
       </td>
       <td>
         • <a href="LINK">Notebook</a><br />
@@ -276,6 +276,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
