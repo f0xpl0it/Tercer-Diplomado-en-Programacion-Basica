@@ -215,7 +215,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
       </td>
           <td>
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/Session_12.ipynb">Notebook</a><br />
-        • <a href="LINK">Código fuente</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sessions/Session_12">Código fuente</a>
       </td>
     </tr>
             <td>13</td>
@@ -341,6 +341,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
