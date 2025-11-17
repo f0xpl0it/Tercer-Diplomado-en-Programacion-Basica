@@ -156,8 +156,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
         • Métodos
       </td>
       <td>
-        • <a href="LINK">Notebook 09</a><br />
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto 8</a>
+        • <a href="LINK">Notebook 09</a>
       </td>
     </tr>
     <tr>
@@ -282,6 +281,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
