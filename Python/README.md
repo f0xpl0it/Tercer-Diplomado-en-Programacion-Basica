@@ -205,6 +205,19 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
     </tr>
     <tr>
     <td>13</td>
+      <td>Módulos de Python</td>
+      <td>
+        • NumPy<br />
+        • Arrays<br />
+        • Matplotlib
+      </td>
+      <td>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Notebook/Sesion_13_1.ipynb">Notebook NumPy</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Notebook/Sesion_13_2.ipynb">Notebook Matplotlib</a>
+      </td>
+    </tr>
+    <tr>
+    <td>14</td>
       <td>""</td>
       <td>
         • ""<br />
@@ -217,7 +230,20 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
       </td>
     </tr>
     <tr>
-    <td>14</td>
+    <td>15</td>
+      <td>""</td>
+      <td>
+        • ""<br />
+        • ""<br />
+        • ""
+      </td>
+      <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto x</a>
+      </td>
+    </tr>
+    <tr>
+    <td>16</td>
       <td>""</td>
       <td>
         • ""<br />
@@ -281,6 +307,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
