@@ -218,15 +218,15 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
     </tr>
     <tr>
     <td>14</td>
-      <td>""</td>
+      <td>Módulos de Python</td>
       <td>
-        • ""<br />
-        • ""<br />
-        • ""
+        • Librería Pandas<br />
+        • Lectura de datos<br />
+        • Ejemplo
       </td>
       <td>
-        • <a href="LINK">Notebook</a><br />
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto x</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Notebook/Sesion_14.ipynb">Notebook 14</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Class Assignment</a>
       </td>
     </tr>
     <tr>
@@ -307,6 +307,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
