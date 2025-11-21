@@ -235,7 +235,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
             <td>14</td>
       <td>Headers</td>
       <td>
-        • Estructura <code>.cpp</code> y <code>.h<br />
+        • Estructura <code>.cpp</code> y <code>.h</code><br />
         • Diferencia <code>.cpp</code> y <code>.h</code><br />
         • Manejo de dependencias<br />
         • Compilación y Errores
@@ -341,6 +341,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
