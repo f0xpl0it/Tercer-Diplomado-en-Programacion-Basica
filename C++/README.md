@@ -244,21 +244,20 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • <a href="LINK">Notebook</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sessions/Session_14">Código fuente</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Assignments/Tarea_cabeceras.pdf">Asignación 9</a><br />
-        • <a href="LINK">Tarea 9</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Homework/Tarea_9">Tarea 9</a>
       </td>
     </tr>
             <td>15</td>
-      <td>""</td>
+      <td>Análisis Numérico</td>
       <td>
-        • ""<br />
-        • ""<br />
-        • ""<br />
-        • ""
+        • Integración Numérica<br />
+        • Cuadraturas Gaussianas<br />
+        • Gauss-Legendre<br />
+        • Ejemplo
       </td>
           <td>
         • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Código fuente</a><br />
-        • <a href="LINK">Tarea x</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sessions/Session_15">Código fuente</a>
       </td>
     </tr>
             <td>16</td>
@@ -342,6 +341,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
