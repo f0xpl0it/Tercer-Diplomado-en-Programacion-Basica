@@ -242,8 +242,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
         • Densidad de probabilidad
       </td>
       <td>
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Notebook/Sesion_15.ipynb">Notebook</a><br />
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto x</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Notebook/Sesion_15.ipynb">Notebook 15</a><br />
       </td>
     </tr>
     <tr>
@@ -256,8 +255,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
         • Desviación Estándar
       </td>
       <td>
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Notebook/Sesion_16.ipynb">Notebook</a><br />
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto x</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Notebook/Sesion_16.ipynb">Notebook 16</a>
       </td>
     </tr>
     <tr>
@@ -351,6 +349,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
