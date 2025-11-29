@@ -218,11 +218,12 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
     </tr>
     <tr>
     <td>14</td>
-      <td>Módulos de Python</td>
+      <td>Análisis de Datos - I</td>
       <td>
         • Librería Pandas<br />
         • Lectura de datos<br />
-        • Ejemplo
+        • Estimados de Locación, Variabilidad y Sesgo<br />
+        • Estimados de Variabilidad
       </td>
       <td>
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Notebook/Sesion_14.ipynb">Notebook 14</a><br />
@@ -232,6 +233,35 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
     </tr>
     <tr>
     <td>15</td>
+      <td>Análisis de Datos - II</td>
+      <td>
+        • Filtro de Datos<br />
+        • Visualización de Datos<br />
+        • Tabla de Frecuencias <br />
+        • Histograma <br />
+        • Densidad de probabilidad
+      </td>
+      <td>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Notebook/Sesion_15.ipynb">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto x</a>
+      </td>
+    </tr>
+    <tr>
+    <td>16</td>
+      <td>Análisis de Datos - III</td>
+      <td>
+        • Teorema del límite central<br />
+        • Estimado de Sesgo: Asimetría estadística<br />
+        • Estimado de concentración de datos en el centro: Kurtosis relativa<br />
+        • Desviación Estándar
+      </td>
+      <td>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Notebook/Sesion_16.ipynb">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto x</a>
+      </td>
+    </tr>
+    <tr>
+    <td>17</td>
       <td>""</td>
       <td>
         • ""<br />
@@ -244,7 +274,20 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
       </td>
     </tr>
     <tr>
-    <td>16</td>
+    <td>18</td>
+      <td>""</td>
+      <td>
+        • ""<br />
+        • ""<br />
+        • ""
+      </td>
+      <td>
+        • <a href="LINK">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto x</a>
+      </td>
+    </tr>
+    <tr>
+    <td>19</td>
       <td>""</td>
       <td>
         • ""<br />
@@ -308,6 +351,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
