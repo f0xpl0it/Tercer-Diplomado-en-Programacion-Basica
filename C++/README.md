@@ -248,7 +248,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
       </td>
     </tr>
             <td>15</td>
-      <td>Análisis Numérico</td>
+      <td>Análisis Numérico - I</td>
       <td>
         • Integración Numérica<br />
         • Cuadraturas Gaussianas<br />
@@ -261,17 +261,17 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
       </td>
     </tr>
             <td>16</td>
-      <td>""</td>
+      <td>Análisis Numérico - II</td>
       <td>
-        • ""<br />
-        • ""<br />
-        • ""<br />
-        • ""
+        • Gauss-Legendre<br />
+        •  2 Dimensiones<br />
+        • 3 Dimensiones<br />
+        • Ejemplo
       </td>
           <td>
         • <a href="LINK">Notebook</a><br />
         • <a href="LINK">Código fuente</a><br />
-        • <a href="LINK">Tarea x</a>
+        • <a href="LINK">Tarea 10</a>
       </td>
     </tr>
             <td>17</td>
@@ -341,6 +341,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
