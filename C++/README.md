@@ -269,7 +269,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
         • Ejemplo
       </td>
           <td>
-        • <a href="LINK">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/Session_16.ipynb">Notebook</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sessions/Session_16">Código fuente</a><br />
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Homework/Tarea_10">Tarea 10</a>
       </td>
@@ -341,6 +341,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
