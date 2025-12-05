@@ -275,12 +275,13 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
       </td>
     </tr>
             <td>17</td>
-      <td>POO</td>
+      <td>POO - I</td>
       <td>
-        • ""<br />
-        • ""<br />
-        • ""<br />
-        • ""
+        • Programación Orientada a Objetos<br />
+        • Clases<br />
+        • Objetos<br />
+        • Constructores<br />
+        • Modificadores de Acceso
       </td>
           <td>
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/Session_17.ipynb">Notebook</a><br />
@@ -385,6 +386,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
