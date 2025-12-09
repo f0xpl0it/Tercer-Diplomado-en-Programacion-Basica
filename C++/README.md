@@ -290,47 +290,17 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
     </tr>
     <tr>
       <td>18</td>
-      <td>""</td>
+      <td>POO - II</td>
       <td>
-        • ""<br />
-        • ""<br />
-        • ""<br />
-        • ""
+        • Constructores<br />
+        • Atributos<br />
+        • Objetos<br />
+        • Polimorfismo<br />
+        • POO con archivos Header
       </td>
           <td>
-        • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Código fuente</a><br />
-        • <a href="LINK">Tarea x</a>
-      </td>
-    </tr>
-    <tr>
-    <td>19</td>
-      <td>""</td>
-      <td>
-        • ""<br />
-        • ""<br />
-        • ""<br />
-        • ""
-      </td>
-          <td>
-        • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Código fuente</a><br />
-        • <a href="LINK">Tarea x</a>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>""</td>
-      <td>
-        • ""<br />
-        • ""<br />
-        • ""<br />
-        • ""
-      </td>
-          <td>
-        • <a href="LINK">Notebook</a><br />
-        • <a href="LINK">Código fuente</a><br />
-        • <a href="LINK">Tarea x</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/C%2B%2B/Notes/Session_18.ipynb">Notebook</a><br />
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/tree/main/C%2B%2B/Sessions/Session_18">Código fuente</a><br />
       </td>
     </tr>
   </table>
@@ -386,6 +356,7 @@ Su labor de investigación se centra en la cromodinámica cuántica y la física
 
 
                                                 
+
 
 
 
