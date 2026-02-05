@@ -258,49 +258,17 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
       </td>
     </tr>
     <tr>
-      <td>x</td>
-      <td>xxxxxx</td>
+      <td>14</td>
+      <td>Simulador del protocolo de criptografía cuántica BB84 
+con clasificador  para detección de espionaje</td>
       <td>
-        • xxx<br />
-        • xxx<br />
-        • xxx<br />
-        • xxx
+        • Introducción<br />
+        • Simulación<br />
+        • Resultados<br />
+        • Conclusiones
       </td>
       <td>
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Michael%20Paucar.nb">Lecture Notes</a><br />
-        • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
-        • <a href="">Asignación x</a><br />
-        • <a href="LINK">Tarea x</a>
-      </td>
-    </tr>
-    <tr>
-      <td>x</td>
-      <td>xxxxxx</td>
-      <td>
-        • xxx<br />
-        • xxx<br />
-        • xxx<br />
-        • xxx
-      </td>
-      <td>
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Michael%20Paucar.nb">Lecture Notes</a><br />
-        • <a href="https://www.wolframcloud.com/obj/mspaucarr/Michael%20Paucar.nb">Notebook</a><br />
-        • <a href="">Asignación x</a><br />
-        • <a href="LINK">Tarea x</a>
-      </td>
-    </tr>
-    <tr>
-      <td>x</td>
-      <td>xxxxxx</td>
-      <td>
-        • xxx<br />
-        • xxx<br />
-        • xxx<br />
-        • xxx
-      </td>
-      <td>
-        • <a href="">Documentación</a><br />
-        • <a href="LINK">Proyecto</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Wolfram/Notebook/Proyecto.nb">Notebook</a>
       </td>
     </tr>
   </table>
@@ -353,6 +321,7 @@ La Dra. Gutiérrez es miembro del Sistema Nacional de Investigadores con Nivel I
 
 
                                                 
+
 
 
 
