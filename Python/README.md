@@ -262,39 +262,25 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
     <td>17</td>
       <td>""</td>
       <td>
-        • ""<br />
-        • ""<br />
-        • ""
+        • Descripción del Conjunto de Datos<br />
+        • Limpieza y Preprocesamiento de Dato<br />
+        • Filtrado de Valores Atípicos mediante el Rango Intercuartílico (IQR)<br />
+        • Matriz de Correlación de Pearson<br />        
+        • Visualización de Correlaciones (Mapa de Calor)<br />
+        • Tercera Ley de Kepler<br />
+        • Linealización mediante Logaritmos Naturales<br />
+        • Conversión a Unidades del Sistema Internacional (SI)<br />
+        • Análisis de Correlación en Espacio Logarítmico<br />
+        • Regresión Lineal Múltiple<br />
+        • Separación de Datos: Entrenamiento y Prueba<br />
+        • Evaluación del Modelo (Coeficiente de Determinación R²) <br />
+        • Predicción y Comparación con Datos Reales <br />
+        • Validación Cruzada (Cross-Validation) <br />
+        • Regresión Lineal usando una Red Neuronal Artificial <br />
+        • Interpretación de Pesos y Sesgo del Modelo Neuronal
       </td>
       <td>
-        • <a href="LINK">Notebook</a><br />
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto x</a>
-      </td>
-    </tr>
-    <tr>
-    <td>18</td>
-      <td>""</td>
-      <td>
-        • ""<br />
-        • ""<br />
-        • ""
-      </td>
-      <td>
-        • <a href="LINK">Notebook</a><br />
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto x</a>
-      </td>
-    </tr>
-    <tr>
-    <td>19</td>
-      <td>""</td>
-      <td>
-        • ""<br />
-        • ""<br />
-        • ""
-      </td>
-      <td>
-        • <a href="LINK">Notebook</a><br />
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Challenge/Desafios.ipynb">Reto x</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Notebook/Sesion_17.ipynb">Notebook</a>
       </td>
     </tr>
   </table>
@@ -349,6 +335,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
