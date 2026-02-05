@@ -260,7 +260,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
     </tr>
     <tr>
     <td>17</td>
-      <td>""</td>
+      <td>Análisis de Datos - IV</td>
       <td>
         • Descripción del Conjunto de Datos<br />
         • Limpieza y Preprocesamiento de Dato<br />
@@ -269,18 +269,18 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
         • Visualización de Correlaciones (Mapa de Calor)<br />
         • Tercera Ley de Kepler<br />
         • Linealización mediante Logaritmos Naturales<br />
-        • Conversión a Unidades del Sistema Internacional (SI)<br />
+        • Conversión a Unidades del SI<br />
         • Análisis de Correlación en Espacio Logarítmico<br />
         • Regresión Lineal Múltiple<br />
         • Separación de Datos: Entrenamiento y Prueba<br />
         • Evaluación del Modelo (Coeficiente de Determinación R²) <br />
         • Predicción y Comparación con Datos Reales <br />
-        • Validación Cruzada (Cross-Validation) <br />
+        • Validación Cruzada <br />
         • Regresión Lineal usando una Red Neuronal Artificial <br />
         • Interpretación de Pesos y Sesgo del Modelo Neuronal
       </td>
       <td>
-        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Notebook/Sesion_17.ipynb">Notebook</a>
+        • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Notebook/Sesion_17.ipynb">Notebook 17</a>
       </td>
     </tr>
   </table>
@@ -335,6 +335,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
