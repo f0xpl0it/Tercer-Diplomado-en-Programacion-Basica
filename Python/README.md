@@ -262,22 +262,14 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
     <td>17</td>
       <td>Análisis de Datos - IV</td>
       <td>
-        • Descripción del Conjunto de Datos<br />
-        • Limpieza y Preprocesamiento de Dato<br />
-        • Filtrado de Valores Atípicos mediante el Rango Intercuartílico (IQR)<br />
-        • Matriz de Correlación de Pearson<br />        
-        • Visualización de Correlaciones (Mapa de Calor)<br />
-        • Tercera Ley de Kepler<br />
-        • Linealización mediante Logaritmos Naturales<br />
-        • Conversión a Unidades del SI<br />
-        • Análisis de Correlación en Espacio Logarítmico<br />
-        • Regresión Lineal Múltiple<br />
-        • Separación de Datos: Entrenamiento y Prueba<br />
-        • Evaluación del Modelo (Coeficiente de Determinación R²) <br />
-        • Predicción y Comparación con Datos Reales <br />
-        • Validación Cruzada <br />
-        • Regresión Lineal usando una Red Neuronal Artificial <br />
-        • Interpretación de Pesos y Sesgo del Modelo Neuronal
+        • Limpieza de datos<br />
+        • Filtrado por IQRo<br />
+        • Correlación de Pearson<br />
+        • Ley de Kepler<br />        
+        • Transformación logarítmica<br />
+        • Regresión lineal<br />
+        • Evaluación del modelo<br />
+        • Redes neuronales
       </td>
       <td>
         • <a href="https://github.com/f0xpl0it/Tercer-Diplomado-en-Programacion-Basica/blob/main/Python/Notebook/Sesion_17.ipynb">Notebook 17</a>
@@ -335,6 +327,7 @@ Entre 2015 y 2017 llevó a cabo una estancia posdoctoral en el Grupo de Astropar
 
 
                                                 
+
 
 
 
